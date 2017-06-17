@@ -3,7 +3,7 @@
 #### Basics
 >- [Understanding Data Types in Python 3](https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3)
 
-#### [Sequential Types](https://docs.python.org/3.5/library/stdtypes.html#mapping-types-dict)
+#### [Sequential Types(String, List, Tuple, etc)](https://docs.python.org/3.5/library/stdtypes.html#mapping-types-dict)
 > ###### [_More On Sequential Types_](http://www.python-course.eu/python3_sequential_data_types.php)
 
 ###### String
@@ -24,14 +24,14 @@
 >- [Dive Into Python 3: Tuples](http://www.diveintopython3.net/native-datatypes.html#tuples)
 >- [How to Think Like a Computer Scientist:Python Tuples](http://www.openbookproject.net/thinkcs/python/english3e/tuples.html)
 
-#### [Set Types](https://docs.python.org/3.5/library/stdtypes.html#set-types-set-frozenset)
+#### [Set Types(Set, Frozen Set)](https://docs.python.org/3.5/library/stdtypes.html#set-types-set-frozenset)
 
 >- [Sets](https://en.wikibooks.org/wiki/Python_Programming/Sequences#Sets)
 >- [Python Course: Sets and Frozen Sets](http://www.python-course.eu/python3_sets_frozensets.php)
 >- [Programiz: Python Sets](https://www.programiz.com/python-programming/set)
 >- [Dive Into Python 3: Sets](http://www.diveintopython3.net/native-datatypes.html#sets)
 
-#### [Mapping Types](https://docs.python.org/3.5/library/stdtypes.html#mapping-types-dict)
+#### [Mapping Types(Dictionary)](https://docs.python.org/3.5/library/stdtypes.html#mapping-types-dict)
 > ###### [_More On Mapping Types_](http://www.voidspace.org.uk/python/articles/mapping_sequence_ref.shtml#mapping-types)
 
 ###### Dictionary
