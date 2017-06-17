@@ -17,9 +17,9 @@ Object-oriented programming (OOP) focuses on creating reusable patterns of code,
 
 ###### [Damian Gordon](https://www.slideshare.net/DamianGordon1/presentations/2?order=latest)
 
-  >- [Object Oriented Design](https://www.slideshare.net/DamianGordon1/objectorientated-design)
-  >- [Creating Classes](https://www.slideshare.net/DamianGordon1/creating-objects-in-python)
-  >- [Polymorphism](https://www.slideshare.net/DamianGordon1/python-polymorphism)
+  >- [Object Oriented Design(Slides)](https://www.slideshare.net/DamianGordon1/objectorientated-design)
+  >- [Creating Classes(Slides)](https://www.slideshare.net/DamianGordon1/creating-objects-in-python)
+  >- [Polymorphism(Slides)](https://www.slideshare.net/DamianGordon1/python-polymorphism)
 
 ###### [_Python Course_](http://www.python-course.eu)  
 
