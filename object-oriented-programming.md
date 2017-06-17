@@ -15,6 +15,11 @@ Object-oriented programming (OOP) focuses on creating reusable patterns of code,
   >- [Class and Instance Variables(Attributes)](https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3)
   >- [__Polymorphism__](https://www.digitalocean.com/community/tutorials/how-to-apply-polymorphism-to-classes-in-python-3)
 
+###### Damian Gordon
+
+  >- [Object Oriented Design](https://www.slideshare.net/DamianGordon1/objectorientated-design)
+  >- [Creating Classes](https://www.slideshare.net/DamianGordon1/creating-objects-in-python)
+  >- [Polymorphism](https://www.slideshare.net/DamianGordon1/python-polymorphism)
 
 ###### [_Python Course_](http://www.python-course.eu)  
 
@@ -23,7 +28,7 @@ Object-oriented programming (OOP) focuses on creating reusable patterns of code,
   >- [Properties](http://www.python-course.eu/python3_properties.php)
   >- [Magic Methods](http://www.python-course.eu/python3_magic_methods.php)
   >- [Classes And Type(Behind The Scenes)](http://www.python-course.eu/python3_classes_and_type.php)
-  
+
 ###### [_How to Think Like a Computer Scientist_](http://openbookproject.net/thinkcs/python/english3e)
 
   >- [Classes And Objects: The Basics](http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html)
