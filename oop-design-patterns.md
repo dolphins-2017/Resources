@@ -2,8 +2,8 @@
 
 ##### [Design Patterns Catalog](https://github.com/faif/python-patterns)
 > ###### Structural
->- [3-Tier:](https://github.com/faif/python-patterns/blob/master/structural/3-tier.py) Code seperated into following sections data <-> business logic <-> presentation logic (strict relationships). 
->- [MVC(Model View Controller):](https://github.com/faif/python-patterns/blob/master/structural/mvc.py) model<->view<->controller (non-strict relationships)
+>- [3-Tier:](https://github.com/faif/python-patterns/blob/master/structural/3-tier.py) Code seperated into following sections `data logic <-> business logic <-> presentation logic` (strict relationships). 
+>- [MVC(Model View Controller):](https://github.com/faif/python-patterns/blob/master/structural/mvc.py) `model<->controller<->view` (non-strict relationships)
 >- [Composite:](https://github.com/faif/python-patterns/blob/master/structural/composite.py) Encapsulate and provide access to a number of different objects
 >
 > ###### Behavioral
