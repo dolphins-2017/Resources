@@ -13,13 +13,13 @@ Object-oriented programming (OOP) focuses on creating reusable patterns of code,
   
   >- [Creating Classes](https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3)
   >- [Class and Instance Variables(Attributes)](https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3)
-  >- [Polymorphism](https://www.digitalocean.com/community/tutorials/how-to-apply-polymorphism-to-classes-in-python-3)
+  >- [__Polymorphism__](https://www.digitalocean.com/community/tutorials/how-to-apply-polymorphism-to-classes-in-python-3)
 
 
 ###### [_Python Course_](http://www.python-course.eu)  
 
-  >- [Object Oriented Programming](http://www.python-course.eu/python3_object_oriented_programming.php)
-  >- [Class And Instance Attributes(Variables)](http://www.python-course.eu/python3_class_and_instance_attributes.php)
+  >- [__Object Oriented Programming__](http://www.python-course.eu/python3_object_oriented_programming.php)
+  >- [__Class And Instance Attributes(Variables)__](http://www.python-course.eu/python3_class_and_instance_attributes.php)
   >- [Properties](http://www.python-course.eu/python3_properties.php)
   >- [Magic Methods](http://www.python-course.eu/python3_magic_methods.php)
   >- [Classes And Type(Behind The Scenes)](http://www.python-course.eu/python3_classes_and_type.php)
@@ -28,4 +28,5 @@ Object-oriented programming (OOP) focuses on creating reusable patterns of code,
 
   >- [Classes And Objects: The Basics](http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html)
   >- [Classes And Objects: Digging a little deeper](http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_II.html)
-  >- [Even More OOP](http://openbookproject.net/thinkcs/python/english3e/even_more_oop.html)
+  >- [__Even More OOP__](http://openbookproject.net/thinkcs/python/english3e/even_more_oop.html)
+  >- [__Collections Of Objects__](http://www.openbookproject.net/thinkcs/python/english3e/collections.html)
