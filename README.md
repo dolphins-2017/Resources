@@ -5,7 +5,8 @@
 ---
 ##### New
 
->- [__MVC Pig__](https://github.com/dolphins-2017/pig-2.0)
+> - [__MVC Pig__](https://github.com/dolphins-2017/pig-2.0)
+> - [__MVC Contacts__](https://github.com/dolphins-2017/week4-Review/tree/solutions/contacts)
 ---
 ##### Resources
 >- [Python Data Structures](https://github.com/dolphins-2017/Resources/blob/master/python-data-structures.md)
