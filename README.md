@@ -1,12 +1,7 @@
-
-## Repo Map
-
-
-#### [__Daily Problems__](https://github.com/dolphins-2017/Resources/blob/master/daily-problems.md)
-
-
 |__Resources__|
 |-|
+|[__Daily Problems__](https://github.com/dolphins-2017/Resources/blob/master/daily-problems.md)|
+|[__JavaScript Introduction__](https://github.com/dolphins-2017/Resources/blob/master/javascript-crash-course.md)|
 |[Python Data Structures](https://github.com/dolphins-2017/Resources/blob/master/python-data-structures.md)|
 |[OOP(Object Oriented Programming)](https://github.com/dolphins-2017/Resources/blob/master/object-oriented-programming.md)|
 |[Design Patterns](https://github.com/dolphins-2017/Resources/blob/master/oop-design-patterns.md)|
