@@ -1,0 +1,9 @@
+➜  django-departments git:(alex) virtualenv env    
+➜  django-departments git:(alex) source env/bin/activate 
+(env) ➜  django-departments git:(alex) pip3 install 
+(env) ➜  django-departments git:(alex) pip3 install django-toolbelt 
+(env) ➜  django-departments git:(alex) django-admin startproject project . 
+(env) ➜  django-departments git:(alex) ✗ django-admin startapp employees 
+(env) ➜  django-departments git:(alex) ✗ python3 manage.py makemigrations 
+(env) ➜  django-departments git:(alex) ✗ python3 manage.py migrate 
+(env) ➜  django-departments git:(alex) ✗ python3 manage.py shell
