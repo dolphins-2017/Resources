@@ -1,3 +1,6 @@
+`$ subl -h`
+
+
 |__Resources__|
 |-|
 |[__Daily Problems__](https://github.com/dolphins-2017/Resources/blob/master/docs/daily-problems.md)|
