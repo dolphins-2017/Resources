@@ -27,6 +27,11 @@ $ source env/bin/activate
 (env)$ python3 manage.py shell
 ```
 
+### Enter An The Shell Of The Default Database
+```bash
+(env)$ python3 manage.py dbshell
+```
+
 |__Resources__|
 |-|
 |[__Daily Problems__](https://github.com/dolphins-2017/Resources/blob/master/docs/daily-problems.md)|
