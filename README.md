@@ -1,5 +1,31 @@
-`$ subl -h`
+### Django Setup
 
+```bash
+$ virtualenv env    
+$ source env/bin/activate 
+(env)$ pip3 install django-toolbelt
+(env)$ django-admin startproject `<your project name here>` . 
+```
+
+### Create An App
+```bash
+(env)$ python3 manage.py startapp `<your app name here>` 
+```
+
+### Create Migrations
+```bash
+(env)$ python3 manage.py makemigrations 
+```
+
+### Apply Migrations To The Database
+```bash
+(env)$ python3 manage.py migrate
+```
+
+### Enter An Interactive Shell Where The Models Can Be Used
+```bash
+(env)$ python3 manage.py shell
+```
 
 |__Resources__|
 |-|
